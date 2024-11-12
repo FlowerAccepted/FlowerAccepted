@@ -1,5 +1,5 @@
-Drag from [luogu](https://luogu.com.cn), luogu account [FlowerAccepted (UID 1023732)](https://www.luogu.com.cn/user/1023732) , drag time: 2024-11-12 17:-- UTC + 8
-Original edition(I won't provide english edition, because the file is too long and it's too hard to translate by AI)：
+Drag from [luogu](https://luogu.com.cn), luogu account [FlowerAccepted (UID 1023732)](https://www.luogu.com.cn/user/1023732) , drag time: 2024-11-12 18:06 UTC + 8  
+Original edition(I won't provide english edition, because the file is too long and it's too hard to translate by AI)：  
 你好，欢迎来到`花朵Accepted`的主页。  
 代词请用`他`。
 # 个人介绍
