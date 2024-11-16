@@ -1,5 +1,6 @@
-Drag from [luogu](https://luogu.com.cn), luogu account [FlowerAccepted (UID 1023732)](https://www.luogu.com.cn/user/1023732) , drag time: 2024-11-12 18:06 UTC + 8  
+Drag from [luogu](https://luogu.com.cn), luogu account [FlowerAccepted (UID 1023732)](https://www.luogu.com.cn/user/1023732) , drag time: 2024-11-16 19:53 UTC + 8  
 Original edition(I won't provide english edition, because the file is too long and it's too hard to translate by AI)：  
+
 你好，欢迎来到`花朵Accepted`的主页。  
 代词请用`他`。
 # 个人介绍
@@ -59,16 +60,21 @@ OIers are XuanXue; they say {I will AK IOI}
 ![](https://hydro.ac/d/PgSvF8264feLSrKl/p/1/file/00006-2827644687.png)
 ![](https://hydro.ac/d/PgSvF8264feLSrKl/p/1/file/1643271826557590079832064.png)
 上面的图由Midjourney AI模型生成（由于图片来自外部网站，而且图片非常大，加载时间可能较慢，请耐心等待加载）
-# 大事祭
-- 第一次获得等级分：2024.8.16 [【LGR-196-Div.4】洛谷入门赛 #26](https://www.luogu.com.cn/contest/188303)
-- 绿名：2024.9.3  
-- $AC$ 100题：2024.9.30 [\[NOIP2015 提高组\] 跳石头](https://www.luogu.com.cn/problem/P2678) [记录179157589](https://www.luogu.com.cn/record/179157589)
-- $AC$ 第一道绿题：2024.10.1 [P7840 「C.E.L.U-03」重构](https://www.luogu.com.cn/problem/P7840) [记录179345375](https://www.luogu.com.cn/record/179345375)
-- 巧：2024.10.4 [记录180000221](https://www.luogu.com.cn/record/180000221)
-- 橙名：2024.10.21  
-- 参加了平生第一场CSPJ、CSPS：2024.10.26
-- 我抢到CSPJ2024民间自测报名沙发了（#1报的）！！！！！2024.20.26
-- 敬请期待
+# 大 ~~（小）~~ 事祭
+| 时间 | 事件 | 链接 |
+| :----------- | :----------- | :----------- |
+| 2024.8.16 | 第一次获得等级分 | [【LGR-196-Div.4】洛谷入门赛 #26](https://www.luogu.com.cn/contest/188303) |
+| 2024.9.3 | 绿名 | - |
+| 2024.9.30 | $AC$ 100题 | [\[NOIP2015 提高组\] 跳石头](https://www.luogu.com.cn/problem/P2678) [记录179157589](https://www.luogu.com.cn/record/179157589) |
+| 2024.10.1 | $AC$ 第一道绿题 | [P7840 「C.E.L.U-03」重构](https://www.luogu.com.cn/problem/P7840) [记录179345375](https://www.luogu.com.cn/record/179345375) |
+| 2024.10.4 | 巧 | [记录180000221](https://www.luogu.com.cn/record/180000221) |
+| 2024.10.21 | 橙名 | - |
+| 2024.10.26 | 参加了平生第一场CSPJ、CSPS | - |
+| 2024.10.26 | 我抢到CSPJ2024民间自测报名沙发了 （#1报的）！| - |
+| 2024.11.21 | 拿下首A | [\[AHC039A\] Purse Seine Fishing](https://www.luogu.com.cn/problem/AT_ahc039_a) [记录188526970](https://www.luogu.com.cn/record/188526970) |
+| 2024.11.25 | $AK$ 全场 | [【LGR-207-Div.4】洛谷入门赛 #29](https://www.luogu.com.cn/contest/213071) |
+| 2024.11.16 | 粉丝 $2 ^ 2$ 祭 | - |
+| - | 敬请期待 | - |
 # 友情链接
 ### 详细主页，更多图片，实用小工具见：<https://www.luogu.com.cn/paste/vybxiaih>(链接同顶部“我的详细主页/整活”)  
 [自爆黑料](https://lglg.top/user/1023732)  
